@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "media",
+        "1": "productivity",
+        "2": "technical",
+        "3": "artificial intelligence (AI)",
+        "4": "data (things)"
+    },
+    "demo_page": "https://better-native-tooltip.bubbleapps.io/version-test",
+    "description": "One click install to upgrade your native bubble tooltips.\n\n✅ Couldn't be simpler\n✅ Lightweight (10kb)\n✅ Themable\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1706932959905x266613273290630100/Better%20Native%20Tooltip.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Better Native Tooltip",
+    "plugin_instructions": "It couldn't be any simpler!\n\n🥁 Install this plugin...\n✨ Your tooltips are now better!\n🤔 Optionally, customize your tooltips"
+}
